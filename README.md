@@ -1,3 +1,4 @@
 # demo
 This is my first Git repository
-Author-Sathvik C
+<br>
+Author - Sathvik C
